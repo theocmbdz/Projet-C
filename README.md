@@ -52,7 +52,7 @@ Cette fonction prend un caractère chiffré et une clé de chiffrement en entré
 
 ### Fonction : verifierCode()
 
-Bien que le code source n'ait pas été fourni, d'après le code dans `main.c`, il semble que cette fonction vérifie si un caractère donné est éligible pour le chiffrement.
+D'après le code dans `main.c`, Cette fonction vérifie si un caractère donné est éligible pour le chiffrement.
 
 ## Cas d'erreur
 
