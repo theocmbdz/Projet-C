@@ -65,4 +65,4 @@ Pour des informations plus détaillées sur l'implémentation et l'utilisation d
 
 ## Code source
 
-Le code source de l'application peut être trouvé sur le dépôt Git suivant : [Lien à fournir]
+Le code source de l'application peut être trouvé sur le dépôt Git suivant : https://github.com/theocmbdz/Sujet3_COMBEDOUZON_BELMEHDI_GHAFFAR_GUYOT
