@@ -1,0 +1,1 @@
+int dechiffrer(char msg_chr, int cle);

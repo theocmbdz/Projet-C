@@ -1,0 +1,1 @@
+int chiffrer(char msg_clair, int cle);

@@ -1,0 +1,1 @@
+char convertirAccents(char message);
